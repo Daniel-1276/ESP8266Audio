@@ -12,3 +12,5 @@ All code forked and based on the excellent work of ESP8266Audio project :) I onl
 
 # Original ReadMe from ESP8266Audio project
 [ReadMe](https://github.com/earlephilhower/ESP8266Audio/blob/master/README.md)
+
+![WebRadio](https://github.com/Daniel-1276/ESP8266Audio/blob/master/SPDIF_WebRadio.jpg?raw=true)
