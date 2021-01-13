@@ -1,4 +1,4 @@
-# SPDIF digital audio Webradio project
+# ESP32 SPDIF digital audio Webradio project
 ## Goals
 This project aims to create the most cheapest hifi quality webradio, elimating buzzing sounds and ground loop issues by using SPDIF and TOSLINK connections to hifi amplifieres. 
 This project will output an http mp3 internetradio webstream via [S/PDIF](https://de.wikipedia.org/wiki/Sony/Philips_Digital_Interface) digital audio interface.
