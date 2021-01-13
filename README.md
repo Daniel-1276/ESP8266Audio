@@ -8,6 +8,6 @@ Basic information about Artist and Song can be shown via SPI port, using an ST77
 Audio output is working stable. Oscilloscope measurements of S/PDIF output showed no relevant jitter at all, even after adding ST7735 display drivers and some scrolling text  . Optical digital audio quality is exceptionally well, compared to traditional 3.5mm Headphone jack connections.
 
 ## Credits
-All code forked and based on the excellent work of ESP8266Audio project :) I only throwed code snippets together, understanding only half of the stuff whats going on under the hood ;-)
+All code forked and based on the excellent work of [ESP8266Audio project](https://github.com/earlephilhower/ESP8266Audio) :) I only throwed code snippets together, understanding only half of the stuff whats going on under the hood ;-)
 
 ![WebRadio](https://github.com/Daniel-1276/ESP8266Audio/blob/master/SPDIF_WebRadio.jpg?raw=true)
