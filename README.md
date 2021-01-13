@@ -10,4 +10,6 @@ Audio output is working stable. Oscilloscope measurements of S/PDIF output showe
 ## Credits
 All code forked and based on the excellent work of [ESP8266Audio project](https://github.com/earlephilhower/ESP8266Audio) :) I only throwed code snippets together, understanding only half of the stuff whats going on under the hood ;-)
 
+![WebRadio Display](https://github.com/Daniel-1276/ESP8266Audio/blob/master/SPDIF_WebRadio.gif)
+
 ![WebRadio](https://github.com/Daniel-1276/ESP8266Audio/blob/master/SPDIF_WebRadio.jpg?raw=true)
